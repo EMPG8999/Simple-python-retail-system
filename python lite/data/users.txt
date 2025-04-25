@@ -1,0 +1,20 @@
+[
+    {
+        "username": "manager",
+        "password": "admin123",
+        "role": "manager",
+        "status": "approved"
+    },
+    {
+        "username": "jinxing",
+        "password": "12345678",
+        "role": "customer",
+        "status": "approved"
+    },
+    {
+        "username": "jinxing123",
+        "password": "12345678",
+        "role": "inventory",
+        "status": "approved"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "item_id": "computer123",
+        "name": "computer",
+        "price": 120.0,
+        "quantity": 100,
+        "description": "no"
+    }
+]
